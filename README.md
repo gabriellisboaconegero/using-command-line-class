@@ -1,2 +1,3 @@
-# ussing-command-line-class
+# **Using Command Line Class**
+
 Repositorio para estudar git usando o terminal
